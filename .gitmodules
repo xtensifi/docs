@@ -1,0 +1,3 @@
+[submodule "tapp-investment-infrastructure"]
+	path = tapp-investment-infrastructure
+	url = https://github.com/xtensifi/tapp-investment-infrastructure.git
